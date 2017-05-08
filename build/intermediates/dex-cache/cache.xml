@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\JK\AndroidStudioProjects\gyro_c-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="119322d1f791718c8984602b0ecb704233193ec1">
+        <dex dex="C:\Users\JK\AndroidStudioProjects\gyro_c-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b119c506ef0b31e962165527c40c52e2536d6ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JK\AndroidStudioProjects\gyro_c-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\JK\AndroidStudioProjects\gyro_c-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2b6f72cec6ac54ff2353ecc2a66923f04ef3fece\classes.dex" />
+    </item>
+
+</items>
