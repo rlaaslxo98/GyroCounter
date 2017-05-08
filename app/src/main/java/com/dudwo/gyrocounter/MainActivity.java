@@ -1,4 +1,4 @@
-package com.dudwo.gyrocounter;
+﻿package com.dudwo.gyrocounter;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -13,6 +13,7 @@ import com.google.firebase.auth.FirebaseUser;
 public class MainActivity extends AppCompatActivity  implements View.OnClickListener{
     private FirebaseAuth firebaseAuth = FirebaseAuth.getInstance();
     FirebaseUser user = firebaseAuth.getCurrentUser();
+//git test
 
 
 
